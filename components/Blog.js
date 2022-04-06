@@ -12,7 +12,7 @@ export default function Blog() {
     
     
     <div className="w-full">
-				<h2 id="work" className="font-bold justify-start items-center flex text-6xl pb-4">Latest Blog Post</h2>
+				<h2 id="work" className="font-bold justify-start pt-10 items-center flex text-6xl pb-4">Latest Blog Post</h2>
 				  
                                                 <div className="flex -mx-4 lg:items-center items-start flex-wrap">
                                                         <div className="px-2 lg:w-4/12 md:w-6/12 w-full pt-4 ">

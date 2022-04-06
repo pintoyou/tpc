@@ -10,6 +10,10 @@ export default function Card() {
     <div className='p-6 items-center flex justify-center text-card text-sm text-secondary'>
       <a> Lorem Ipsum is simply dok a galley ofcimen book.i</a>
     </div>
+    <div className='p-6 items-center flex justify-center text-card text-sm text-secondary'>
+    <button className='bg-primary rounded-full text-third font-manrope justify-center items-center mb-2 w-40 h-10'> Contact</button>
+    </div>
+ 
    
   </div>
   )

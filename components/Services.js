@@ -9,8 +9,8 @@ export default function Services() {
      
     
     
-    <div className="w-full">
-				<h2 id="work" className="font-bold justify-start items-center flex text-6xl pb-4">Our work</h2>
+    <div className="w-full mt-10">
+				<h2 id="work" className="font-bold justify-center items-center flex text-6xl pb-4">Our work</h2>
 				  
 				<div className="flex flex-wrap justify-center items-center  gap-6  pt-12 ">
 

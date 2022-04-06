@@ -46,15 +46,12 @@ export default function Footer() {
                         </div>
                 </div>
             </div>
-            <div className=''>
-                <a>
-                Copyright @Suppetiae 2022. All Rights Reserved.
-                </a>
-            </div>
+           
 
    
         
     </div>
+  
 </div>
   )
 }

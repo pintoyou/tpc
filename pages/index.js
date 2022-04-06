@@ -1,7 +1,7 @@
 import Head from 'next/head'
 import Image from 'next/image'
 import HeroSection from '../components/HeroSection'
-import Navbar from '../components/Navbar'
+import Layout from '../components/Layout'
 import Partners from '../components/Partners'
 import Services from '../components/Services'
 import Blog from '../components/Blog'
@@ -19,14 +19,18 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
      
-      <Navbar />
+      <Layout />
       <Services />
       <Partners />
      <Teams />
      <Blog />
      <Subscribe />
      <Footer />
-      
+     <div className='flex justify-center items-center mt-10 pb-10'>
+                <a>
+                Copyright @Suppetiae 2022. All Rights Reserved.
+                </a>
+            </div>
      
     </div>
   )

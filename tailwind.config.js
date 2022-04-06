@@ -33,6 +33,8 @@ module.exports = {
     fontFamily: {
       
       sans: ['Montserrat', 'sans-serif'],
+      manrope: ['Manrope', 'sans-serif'],
+      
     },
     extend: {
       spacing: {
@@ -41,6 +43,9 @@ module.exports = {
       },
       borderRadius: {
         '4xl': '2rem',
+      },
+      backgroundImage: {
+        'hero': "url('../assets/vector.png')"
       }
     }
   },

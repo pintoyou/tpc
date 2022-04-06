@@ -14,7 +14,7 @@ export default function Partners() {
     
     
     <div className="w-full pb-4">
-				<h2 id="work" className="font-bold justify-start items-center flex text-6xl pb-4 pt-12">Partners</h2>
+				<h2 id="work" className="font-bold justify-center items-center flex text-6xl pb-4 pt-12">Partners</h2>
 				  
 				<div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-12 pb-6 pt-12">
 

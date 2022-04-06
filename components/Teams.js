@@ -9,7 +9,7 @@ export default function Teams() {
     
     
         <div className="w-full">
-                    <h2 id="work" className="font-bold justify-start items-center flex text-6xl pb-4 pt-12">Our Teams</h2>
+                    <h2 id="work" className="font-bold justify-center items-center flex text-6xl pb-4 pt-12">Our Teams</h2>
                     
                     <div className="flex flex-wrap justify-center items-center gap-12 pb-6 pt-12">
 
