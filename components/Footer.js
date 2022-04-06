@@ -5,7 +5,7 @@ export default function Footer() {
     <div className="container mt-16 flex justify-between items-center mx-auto px-8 md:px-14 lg:px-24 w-full">
     <div className="flex flex-wrap md:flex-nowrap">
             <div className=' flex '>
-                <div className='w-3/12 '>
+                <div className='w-3/12 sm:w-full'>
                         <h1 className='pb-2 font-bold text-xl'>Suppetiae</h1>
                         <a className='py-2 text-sm'>Simple innate summer fat appear basket his desire joy.</a>
                         <div className='py-2'>
@@ -15,7 +15,7 @@ export default function Footer() {
                             <a className='px-2'>ss</a>
                         </div>
                 </div>
-                <div className='w-3/12 '>
+                <div className='w-3/12 sm:hidden '>
                 <h1>Suppetiae</h1>
                         <a>Simple innate summer fat appear basket his desire joy.</a>
                         <div>
@@ -25,7 +25,7 @@ export default function Footer() {
                             <a>ss</a>
                         </div>
                 </div>
-                <div className='w-3/12 '>
+                <div className='w-3/12 sm:hidden '>
                 <h1>Suppetiae</h1>
                         <a>Simple innate summer fat appear basket his desire joy.</a>
                         <div>
@@ -35,7 +35,7 @@ export default function Footer() {
                             <a>ss</a>
                         </div>
                 </div>
-                <div className='w-3/12 '>
+                <div className='w-3/12 sm:hidden'>
                 <h1>Suppetiae</h1>
                         <a>Simple innate summer fat appear basket his desire joy.</a>
                         <div>

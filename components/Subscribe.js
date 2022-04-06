@@ -25,7 +25,7 @@ export default function Subscribe() {
                     
 
                     </div>
-                <div className='flex lg:w-2-12 p-24'>
+                <div className='flex lg:w-2-12 p-24 sm:hidden md:hidden'>
 
                 </div>
                     <div className="flex lg:w-4/12 w-full  mt-6">
