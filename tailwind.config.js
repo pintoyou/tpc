@@ -31,8 +31,8 @@ module.exports = {
         'card': '##9E9E9E',
     },
     fontFamily: {
-      sans: ['Graphik', 'sans-serif'],
-      serif: ['Merriweather', 'serif'],
+      
+      sans: ['Montserrat', 'sans-serif'],
     },
     extend: {
       spacing: {

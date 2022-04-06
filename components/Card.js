@@ -3,7 +3,7 @@ import Image from 'next/dist/client/image'
 import Man from '../assets/man.png'
 export default function Card() {
   return (
-    <div className=' bg-third shadow-xl lg:w-60'> 
+    <div className=' rounded-xl bg-third lg:w-60'> 
     <div className='p-2 items-center flex justify-center'>
     <Image src={Man} className='rounded-xl   ' />
     </div>

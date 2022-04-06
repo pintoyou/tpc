@@ -13,7 +13,7 @@ export default function Teams() {
                     
                     <div className="flex flex-wrap justify-center items-center gap-12 pb-6 pt-12">
 
-                        <div className='h-[250px] w-[240px] bg-primary rounded-xl pt-2 '>
+                        <div className='h-[250px] w-[240px] bg-gradient-to-t from-third/100 via-primary/80 to-primary shadow-lg shadow-gray rounded-xl pt-2 '>
                             <div className='justify-center items-center flex pt-2'>
                                 <Image src={Man} height={106} width={106}  className='rounded-full' />
                             </div>
@@ -45,7 +45,7 @@ export default function Teams() {
                         
                             </div>
                         </div>
-                        <div className='h-[250px] w-[240px] bg-primary rounded-xl pt-2 '>
+                        <div className='h-[250px] w-[240px] bg-gradient-to-t from-primary/60 via-primary to-third shadow-lg shadow-primary/50 rounded-xl pt-2 '>
                             <div className='justify-center items-center flex pt-2'>
                                 <Image src={Man} height={106} width={106}  className='rounded-full' />
                             </div>
@@ -77,7 +77,7 @@ export default function Teams() {
                         
                             </div>
                         </div>
-                        <div className='h-[250px] w-[240px] bg-primary rounded-xl pt-2 '>
+                        <div className='h-[250px] w-[240px] bg-gradient-to-t from-primary/60 via-primary to-third shadow-lg shadow-primary/50 rounded-xl pt-2 '>
                             <div className='justify-center items-center flex pt-2'>
                                 <Image src={Man} height={106} width={106}  className='rounded-full' />
                             </div>
@@ -109,7 +109,7 @@ export default function Teams() {
                         
                             </div>
                         </div>
-                        <div className='h-[250px] w-[240px] bg-primary rounded-xl pt-2 '>
+                        <div className='h-[250px] w-[240px] bg-gradient-to-t from-primary/60 via-primary to-third shadow-lg shadow-primary/50 rounded-xl pt-2 '>
                             <div className='justify-center items-center flex pt-2'>
                                 <Image src={Man} height={106} width={106}  className='rounded-full' />
                             </div>
@@ -141,7 +141,7 @@ export default function Teams() {
                         
                             </div>
                         </div>
-                        <div className='h-[250px] w-[240px] bg-primary rounded-xl pt-2 '>
+                        <div className='h-[250px] w-[240px] bg-gradient-to-t from-primary/60 via-primary to-third shadow-lg shadow-primary/50 rounded-xl pt-2 '>
                             <div className='justify-center items-center flex pt-2'>
                                 <Image src={Man} height={106} width={106}  className='rounded-full' />
                             </div>
@@ -173,7 +173,7 @@ export default function Teams() {
                         
                             </div>
                         </div>
-                        <div className='h-[250px] w-[240px] bg-primary rounded-xl pt-2 '>
+                        <div className='h-[250px] w-[240px] bg-gradient-to-t from-primary/60 via-primary to-third shadow-lg shadow-primary/50 rounded-xl pt-2 '>
                             <div className='justify-center items-center flex pt-2'>
                                 <Image src={Man} height={106} width={106}  className='rounded-full' />
                             </div>
@@ -205,7 +205,7 @@ export default function Teams() {
                         
                             </div>
                         </div>
-                        <div className='h-[250px] w-[240px] bg-primary rounded-xl pt-2 '>
+                        <div className='h-[250px] w-[240px] bg-gradient-to-t from-primary/60 via-primary to-third shadow-lg shadow-primary/50 rounded-xl pt-2 '>
                             <div className='justify-center items-center flex pt-2'>
                                 <Image src={Man} height={106} width={106}  className='rounded-full' />
                             </div>
@@ -238,7 +238,7 @@ export default function Teams() {
                             </div>
                         </div>
         
-                        <div className='h-[250px] w-[240px] bg-primary rounded-xl pt-2 '>
+                        <div className='h-[250px] w-[240px] bg-gradient-to-t from-primary/60 via-primary to-third shadow-lg shadow-primary/50 rounded-xl pt-2 '>
                             <div className='justify-center items-center flex pt-2'>
                                 <Image src={Man} height={106} width={106}  className='rounded-full' />
                             </div>

@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function Subscribe() {
   return (
-    <div className='  bg-primary '> 
+    <div className='  bg-primary pb-10 '> 
      
     
     
